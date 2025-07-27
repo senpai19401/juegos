@@ -1,41 +1,5 @@
 [
   {
-    "titulo": "pruebs",
-    "descripcion": "",
-    "imagen": "https://pbs.twimg.com/media/GwAoR5FW8AAKmav?format=jpg&name=large",
-    "imagenes": [
-      "https://pbs.twimg.com/media/GwAoR5FW8AAKmav?format=jpg&name=large",
-      "https://pbs.twimg.com/media/GwOk0yrXQAMmXdh?format=jpg&name=large",
-      "https://pbs.twimg.com/media/Gwbd5XAWwAEVtDy?format=jpg&name=medium"
-    ],
-    "link": "https://youtu.be/CrPF0qaVjfE?si=Hs2DnT6L8wGGQ6R4",
-    "tamano": "85 MB",
-    "genero": "Plataformas",
-    "plataforma": "Android",
-    "categorias": ["Aventura", "Retro", "18+"],
-    "traductor": "Traducido automáticamente. Puede contener errores."
-  },
-  {
-    "titulo": "Prueba",
-    "descripcion": "Prueba",
-    "imagen": "https://pbs.twimg.com/media/GwG7CjBa8AAxjqR?format=jpg&name=large",
-    "imagenes": [
-      "https://pbs.twimg.com/media/GwG7CjBa8AAxjqR?format=jpg&name=large",
-      "https://pbs.twimg.com/media/GwVnZAUXkAEjInq?format=jpg&name=medium",
-      "https://pbs.twimg.com/media/GwavPdQbEAE-jam?format=jpg&name=medium",
-      "https://pbs.twimg.com/media/GwRr9UDWYAAd0xh?format=jpg&name=large"
-    ],
-    "link": "https://youtu.be/CrPF0qaVjfE?si=Hs2DnT6L8wGGQ6R4",
-    "tamano": "120 MB",
-    "genero": "RPG",
-    "plataforma": "Android",
-    "categorias": ["RPG", "Anime", "18+"],
-    "traductor": "Traducción verificada por el equipo."
-  }
-]
-
-[
-  {
     "titulo": "[ESP & PT] Hazelnut Latte [v0.13.3 Patreon] [Rad Lord]",
     "descripcion": "En esta novela visual, visitas una cafetería y conoces a un joven barista llamado (Phil) Hazel.\nLos dos congeniáis y la elección depende de ti.\n¿Qué tipo de café te gusta?\n¿Quieres un espresso?\n¿Algo dulce, como un frappé?\n¿O prefieres probar la especialidad de la casa: un latte de avellana?\n",
     "imagen": "https://media.discordapp.net/attachments/1313010916505423954/1397005775443853423/2.avif?ex=6886be03&is=68856c83&hm=96a5503387f1bb6ae6541c5bac9f9f4f563231526a14451cc5fe373626492b08&=&format=webp&quality=lossless&width=967&height=544",
