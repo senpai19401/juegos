@@ -10,15 +10,15 @@
     ],
     "tamano": "1.5 GB",
     "plataforma": "Windows, Android",
-    "traductores": ["BlueAngel", "Equipo TL"],
+    "traductores": ["BlueAngel", "DarioManiaco"],
     "categorias": ["Aventura", "Visual Novel", "Romance"],
     "links": {
       "mega": {
-        "nombre": "Descargar desde MEGA",
+        "nombre": "BlueAngel (3 Acortadores) (700 MB)",
         "url": "https://mega.nz/..."
       },
       "mediafire": {
-        "nombre": "Descargar desde MediaFire",
+        "nombre": "DarioManiaco (4 Acortadores) (700 MB)",
         "url": "https://mediafire.com/..."
       }
     }
