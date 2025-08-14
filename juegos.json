@@ -792,29 +792,5 @@
     },
     "estado": "Disponible",
     "version": "v11.5"
-  },
-  {
-    "titulo": "d",
-    "descripcion": "d",
-    "imagen": "d",
-    "imagenes": [
-      "d"
-    ],
-    "tamano": "d",
-    "plataforma": "d",
-    "traductores": [
-      "d"
-    ],
-    "categorias": [
-      "d"
-    ],
-    "links": {
-      "mediafire": {
-        "nombre": "d",
-        "url": "d"
-      }
-    },
-    "estado": "Disponible",
-    "version": "d"
   }
 ]
