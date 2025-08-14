@@ -792,29 +792,5 @@
     },
     "estado": "Disponible",
     "version": "v11.5"
-  },
-  {
-    "titulo": "d",
-    "descripcion": "d",
-    "imagen": "https://images.pexels.com/photos/1421903/pexels-photo-1421903.jpeg?cs=srgb&dl=pexels-eberhardgross-1421903.jpg&fm=jpg",
-    "imagenes": [
-      "https://images.pexels.com/photos/1421903/pexels-photo-1421903.jpeg?cs=srgb&dl=pexels-eberhardgross-1421903.jpg&fm=jpg"
-    ],
-    "tamano": "d",
-    "plataforma": "d",
-    "traductores": [
-      "d"
-    ],
-    "categorias": [
-      "d"
-    ],
-    "links": {
-      "mediafire": {
-        "nombre": "d",
-        "url": "https://images.pexels.com/photos/1421903/pexels-photo-1421903.jpeg?cs=srgb&dl=pexels-eberhardgross-1421903.jpg&fm=jpg"
-      }
-    },
-    "estado": "Disponible",
-    "version": "d"
   }
 ]
