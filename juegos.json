@@ -934,7 +934,12 @@
       "entorno escolar",
       "sexo vaginal"
     ],
-    "links": [],
+    "links": {
+      "mediafire": {
+        "nombre": "workupload",
+        "url": "https://uii.io/iIWKSIC4Xc4q1q"
+      }
+    },
     "estado": "Disponible",
     "version": "v1.4.1"
   }
