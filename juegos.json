@@ -1810,7 +1810,12 @@
       "superpoderes",
       "sexo vaginal"
     ],
-    "links": [],
+    "links": [
+      {
+        "nombre": "Workuploat",
+        "url": "https://tpi.li/1ZOLu0z"
+      }
+    ],
     "estado": "Disponible",
     "version": "v0.10"
   },
