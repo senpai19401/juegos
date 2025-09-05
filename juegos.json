@@ -3819,5 +3819,24 @@
     ],
     "estado": "Disponible",
     "version": "V1.0"
+  },
+  {
+    "titulo": "Viva el NTR",
+    "descripcion": "los peces , son gatos",
+    "imagen": "https://attachments.f95zone.to/2023/01/2367057_1674826087277.png",
+    "imagenes": [],
+    "tamano": "3.5 TB",
+    "plataforma": "XBOX 720",
+    "traductores": [
+      "Litoid"
+    ],
+    "categorias": [],
+    "links": [
+      {
+        "nombre": "MediaFire PC",
+        "url": "https://exe.io/8XHEi"
+      }
+    ],
+    "version": "V.69"
   }
 ]
