@@ -4280,5 +4280,41 @@
       }
     ],
     "version": "0.9.97"
+  },
+  {
+    "titulo": "2 Genex Love",
+    "descripcion": "En un mundo de individuos 'dotados', eres un joven cuyo sueño de toda la vida ha sido convertirse en héroe. Pero todo cambia tras una batalla que te deja en coma. Ahora, tras una lucha contra la muerte, el mundo que te rodea ha cambiado, y depende de ti arreglar las cosas una vez más. Embárcate en este viaje para convertirte en un héroe (¿o quizás en un antihéroe?) mientras exploras tus nuevos poderes, sales con chicas cautivadoras, sobrevives a la vida escolar y quizás, solo quizás, desvelas misterios aún mayores.",
+    "imagen": "https://img.itch.zone/aW1nLzE4MzM4NDcwLnBuZw==/original/FEp6SE.png",
+    "imagenes": [
+      "https://img.itch.zone/aW1hZ2UvMzA2NjE4Mi8xODMzODMyMy5wbmc=/original/aFCbcS.png",
+      "https://img.itch.zone/aW1hZ2UvMzA2NjE4Mi8xODMzODMzMS5wbmc=/original/6xFkuR.png",
+      "https://img.itch.zone/aW1hZ2UvMzA2NjE4Mi8xODMzODMyOC5wbmc=/original/4bHpcL.png",
+      "https://img.itch.zone/aW1hZ2UvMzA2NjE4Mi8xODMzODMxMC5wbmc=/original/b3suLd.png",
+      "https://img.itch.zone/aW1hZ2UvMzA2NjE4Mi8xODMzODMzNC5wbmc=/original/urmDxc.png",
+      "https://img.itch.zone/aW1hZ2UvMzA2NjE4Mi8xODMzODMyMi5wbmc=/original/hQ4CS4.png",
+      "https://img.itch.zone/aW1hZ2UvMzA2NjE4Mi8xODMzODM3OS5wbmc=/original/xUZfNr.png"
+    ],
+    "tamano": "990 MB",
+    "plataforma": "Android",
+    "traductores": [
+      "GanzoManiaco"
+    ],
+    "categorias": [
+      "Adulto",
+      "Anime",
+      "Personalización de personajes",
+      "Erótico",
+      "Fantasía",
+      "Sangriento",
+      "Sandbox",
+      "Superhéroe"
+    ],
+    "links": [
+      {
+        "nombre": "Workupload Android",
+        "url": "https://oii.la/Dn7I6Ays"
+      }
+    ],
+    "version": "2.1.0"
   }
 ]
