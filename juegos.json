@@ -4246,5 +4246,39 @@
       }
     ],
     "version": " [v2.7.6]"
+  },
+  {
+    "titulo": "GENEX Love",
+    "descripcion": "En un mundo lleno de personas \"dotadas\", eres un joven cuyo sueño de toda la vida ha sido convertirse en un héroe. Desafortunadamente, nunca has tenido habilidades, hasta ahora. ¡Todo cambia cuando tu \"Genex\" finalmente despierta! Embárcate en este viaje para convertirte en un héroe (¿o quizás en un antihéroe?) mientras descubres más sobre tus poderes, sales con chicas hermosas, sobrevives a la vida escolar y tal vez, solo tal vez, desvelas misterios aún mayores.",
+    "imagen": "https://img.itch.zone/aW1nLzE0NDQzOTQ5LnBuZw==/original/Hrc0rI.png",
+    "imagenes": [
+      "https://img.itch.zone/aW1hZ2UvMTQyNjIxMy84MzExNTUyLnBuZw==/original/fan8e%2B.png",
+      "https://img.itch.zone/aW1hZ2UvMTQyNjIxMy84MzExNTMwLnBuZw==/original/hUTNhv.png",
+      "https://img.itch.zone/aW1hZ2UvMTQyNjIxMy84MzExNTQyLnBuZw==/original/qw6ONg.png",
+      "https://img.itch.zone/aW1hZ2UvMTQyNjIxMy8xODI5MTY4Ni5wbmc=/original/fvWDup.png",
+      "https://img.itch.zone/aW1hZ2UvMTQyNjIxMy8xODI5MTY4NS5wbmc=/original/mCCkWd.png"
+    ],
+    "tamano": "1,6 GB",
+    "plataforma": "Android",
+    "traductores": [
+      "GanzoManiaco"
+    ],
+    "categorias": [
+      "Adulto",
+      "Anime",
+      "Personalización de personajes",
+      "Erótico",
+      "Fantasía",
+      "Sandbox",
+      "Superhéroe",
+      "Superpoderes"
+    ],
+    "links": [
+      {
+        "nombre": "Workupload Android",
+        "url": "https://oii.la/h8enjglA"
+      }
+    ],
+    "version": "0.9.97"
   }
 ]
