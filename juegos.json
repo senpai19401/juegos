@@ -4562,5 +4562,27 @@
     ],
     "estado": "Disponible",
     "version": "[v0.1.3c] "
+  },
+  {
+    "titulo": "H",
+    "descripcion": "H",
+    "imagen": "https://attachments.f95zone.to/2025/01/4429457_Screen_638703196137795790.png",
+    "imagenes": [],
+    "tamano": "1.6",
+    "plataforma": "H",
+    "traductores": [
+      "J"
+    ],
+    "categorias": [
+      "B"
+    ],
+    "links": [
+      {
+        "nombre": "MediaFire Android",
+        "url": "j"
+      }
+    ],
+    "estado": "Disponible",
+    "version": "3.0"
   }
 ]
