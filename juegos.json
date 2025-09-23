@@ -7517,7 +7517,7 @@
     ],
     "links": [
       {
-        "servicio": "gofile Android",
+        "nombre": "gofile Android",
         "url": "https://tpi.li/8QfNVQ"
       }
     ],
@@ -7574,11 +7574,11 @@
     ],
     "links": [
       {
-        "servicio": "gofile PC",
+        "nombre": "gofile PC",
         "url": "https://oii.la/HQPTwvro"
       },
       {
-        "servicio": "Parche en español",
+        "nombre": "Parche en español",
         "url": "https://oii.la/NTEabwrdeS"
       }
     ],
