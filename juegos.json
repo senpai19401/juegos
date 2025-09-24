@@ -8119,5 +8119,40 @@
     ],
     "estado": "Disponible",
     "version": "V1.2"
+  },
+  {
+    "titulo": "Another World ",
+    "descripcion": "Una novela visual que te llevará a un mundo completamente diferente, lleno de magia y criaturas desconocidas e interesantes. Explorarás diversos ecosistemas y conocerás gente con la que podrás viajar e interactuar. Busca artefactos mágicos para regresar a tu mundo o puedes aceptar tu nueva vida y seguir adelante.\n",
+    "imagen": "https://attachments.f95zone.to/2025/05/4886766_wJkvTJ.png",
+    "imagenes": [
+      "https://attachments.f95zone.to/2025/05/4886734_ss-1.gif",
+      "https://attachments.f95zone.to/2025/05/4886735_ss-2.png",
+      "https://attachments.f95zone.to/2025/05/4886736_ss-3.png",
+      "https://attachments.f95zone.to/2025/05/4886737_ss-4.png"
+    ],
+    "tamano": "526.8MB",
+    "plataforma": [
+      "Android"
+    ],
+    "traductores": [
+      "GanzoManiaco"
+    ],
+    "categorias": [
+      "3dcg",
+      "simulador de citas",
+      "fantasía",
+      "protagonista masculino",
+      "chica monstruo",
+      "romance",
+      "salvadera"
+    ],
+    "links": [
+      {
+        "servicio": "Workupload Android",
+        "url": "https://oii.la/UUeK1r"
+      }
+    ],
+    "estado": "Disponible",
+    "version": "[v0.02.25.1]"
   }
 ]
