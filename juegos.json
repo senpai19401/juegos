@@ -8266,7 +8266,12 @@
     "traductores": [
       "Ruv"
     ],
-    "categorias": "NTR,MILF,VisualNovel,NTS",
+  "categorias": [
+    "NTR",
+    "MILF",
+    "VisualNovel",
+    "NTS"
+  ],
     "links": [
       {
         "nombre": "MediaFire Android",
