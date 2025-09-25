@@ -8260,16 +8260,13 @@
       "https://attachments.f95zone.to/2024/08/3940237_screenshot0008.png"
     ],
     "tamano": "201 MB",
-    "plataforma": "Pc, Android",
+    "plataforma": [
+      "Android"
+    ],
     "traductores": [
       "Ruv"
     ],
-    "categorias": [
-      "NTR",
-      "MILF",
-      "VisualNovel",
-      "NTS"
-    ],
+    "categorias": "NTR,MILF,VisualNovel,NTS",
     "links": [
       {
         "nombre": "MediaFire Android",
@@ -8278,6 +8275,10 @@
       {
         "nombre": "MediaFire PC",
         "url": "https://cuty.io/hCc3l"
+      },
+      {
+        "nombre": "Parche en español",
+        "url": "https://cuty.io/6MOr4b3"
       }
     ],
     "estado": "Disponible",
