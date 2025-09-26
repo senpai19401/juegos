@@ -8228,12 +8228,12 @@
     "traductores": [
       "Ruv"
     ],
-  "categorias": [
-    "NTR",
-    "MILF",
-    "VisualNovel",
-    "NTS"
-  ],
+    "categorias": [
+      "NTR",
+      "MILF",
+      "VisualNovel",
+      "NTS"
+    ],
     "links": [
       {
         "nombre": "MediaFire Android",
@@ -8250,5 +8250,31 @@
     ],
     "estado": "Disponible",
     "version": "V1.0"
+  },
+  {
+    "titulo": "g",
+    "descripcion": "g",
+    "imagen": "https://c4.wallpaperflare.com/wallpaper/586/603/742/minimalism-4k-for-mac-desktop-wallpaper-preview.jpg",
+    "imagenes": [],
+    "tamano": "2",
+    "plataforma": [
+      "Gamehud (Emulador)"
+    ],
+    "traductores": [
+      "GanzoManiaco"
+    ],
+    "categorias": [
+      "roamnce",
+      "accion"
+    ],
+    "links": [
+      {
+        "nombre": "MediaFire Android",
+        "url": "https://c4.wallpaperflare.com/wallpaper/586/603/742/minimalism-4k-for-mac-desktop-wallpaper-preview.jpg"
+      }
+    ],
+    "estado": "Disponible",
+    "version": "54",
+    "password": "1940"
   }
 ]
