@@ -7273,7 +7273,7 @@
   },
   {
     "titulo": "Mahou Shoujo VS Mesugaki!",
-    "descripcion": "Las chicas mágicas están de patrulla, como siempre.\nUna de ellas, Aoi, es atacada y secuestrada en una calle oscura.\nLa protagonista, Nahii, finalmente encuentra a Aoi tras varios días desaparecida,\npero la chica fría y poco cariñosa que era ya no estaba allí...",
+    "descripcion": "Las chicas mágicas están de patrulla, como siempre.\nUna de ellas, Aoi, es atacada y secuestrada en una calle oscura.\nLa protagonista, Nahii, finalmente encuentra a Aoi tras varios días desaparecida,\npero la chica fría y poco cariñosa que era ya no estaba allí...\n\nContraseña: ryuugames.com",
     "imagen": "https://www.ryuugames.com/wp-content/uploads/2024/07/Magical-Girl-VS-Magical-Brat.webp",
     "imagenes": [
       "https://i.postimg.cc/6QFnw9GF/Magical-Girl-VS-Magical-Brat-1.webp",
@@ -7281,7 +7281,10 @@
       "https://i.postimg.cc/MGnVhcXy/Magical-Girl-VS-Magical-Brat-3.webp"
     ],
     "tamano": "720 MB",
-    "plataforma": "Pc, Android",
+    "plataforma": [
+      "PC",
+      "JoiPlay (Emulador)"
+    ],
     "traductores": [
       "Ruv"
     ],
@@ -7306,7 +7309,9 @@
       }
     ],
     "estado": "Disponible",
-    "version": "V1.0"
+    "version": "V1.0",
+    "password": "",
+    "copyright": "© Copyright senpai1940 - Contraseña: 1942 - Prohibida la modificación sin autorización"
   },
   {
     "titulo": "Snow Daze: The Music of Winter",
